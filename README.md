@@ -12,5 +12,5 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/413019443136954392.png)
 
 # Github status
-<img src="https://github-readme-stats.vercel.app/api?username=Abdo30004&count_private=true&show_icons=true&theme=chartreuse-dark&line_height=35&custom_title=My%20Github%20status" width="100px"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdo30004&count_private=true&show_icons=true&theme=chartreuse-dark&line_height=35&custom_title=My%20Github%20status"></img>
 
