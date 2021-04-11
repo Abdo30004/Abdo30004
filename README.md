@@ -1,4 +1,4 @@
-# **Welcome** ![Hello](https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif)
+# **Welcome** <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" width="40px"></img>
 
 **-----------------------------------------------------------------------------------------------**
 ## Name : **Abderrahmane**
