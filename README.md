@@ -1,8 +1,6 @@
 ## Name : **Abderrahmane**
 
-#
-
-# Discord status <img src="https://img.icons8.com/nolan/1x/discord-logo.png">
+# Discord status <img src="https://img.icons8.com/nolan/1x/discord-logo.png" width=50 height=50>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/760952710383665192.png)
 
