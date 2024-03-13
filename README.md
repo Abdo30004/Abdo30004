@@ -1,10 +1,9 @@
 
-# Hi there, I'm Abderrahmane! 👋
-
-## About Me
-I'm a passionate software developer who loves building cool stuff and solving challenging problems. Currently, I'm exploring various technologies and honing my skills in backend development.
+<h1 align="center"> Hi there, I'm Abderrahmane! 👋</h1>
+<h2 align="center"> About Me </h2>
+<strong>I'm a passionate software developer who loves building cool stuff and solving challenging problems. Currently, I'm exploring various technologies and honing my skills in backend development.
 One of my areas of interest is web scraping, where I enjoy extracting valuable data from websites to gather insights or automate tasks. I find satisfaction in crafting efficient scraping scripts and parsing HTML content to extract meaningful information.
-Additionally, I have a keen interest in bot development, particularly Discord bots. I enjoy creating bots that enhance user experiences, automate repetitive tasks, or provide useful functionalities within Discord communities.
+Additionally, I have a keen interest in bot development, particularly Discord bots. I enjoy creating bots that enhance user experiences, automate repetitive tasks, or provide useful functionalities within Discord communities.</strong>
 
 ## Programming Languages And Technologies I Work With
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
