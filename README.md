@@ -18,8 +18,12 @@ Additionally, I have a keen interest in bot development, particularly Discord bo
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
+### Bots and Scraping
+![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discorddotjs&logoColor=white)
+![puppeteer](https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![cheerio](https://img.shields.io/badge/cheerio-E88C1F?style=for-the-badge&logo=cheerio&logoColor=white)
 ### Databases and ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
