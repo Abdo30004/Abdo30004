@@ -40,8 +40,9 @@ Additionally, I have a keen interest in bot development, particularly Discord bo
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 
 ## Github Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdo30004&layout=donut&theme=ayu-mirage)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdo30004&show_icons=true&theme=ayu-mirage)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=abdo30004&layout=donut&theme=ayu-mirage)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=abdo30004&show_icons=true&theme=ayu-mirage)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdo30004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Discord Status
 ![Discord Status](https://lanyard.cnrad.dev/api/760952710383665192?animated=true&showDisplayName=true&hideTimestamp=true)
