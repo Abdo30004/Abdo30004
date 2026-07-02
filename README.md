@@ -45,6 +45,8 @@ Additionally, I have a keen interest in bot development, particularly Discord bo
 <p align="center">
   <img src="https://gitfut.com/Abdo30004.png" alt="Abdo30004" width="450" height="500">
 </p>
+
+
 ## Discord Status
 ![Discord Status](https://lanyard.cnrad.dev/api/760952710383665192?animated=true&showDisplayName=true&hideTimestamp=true)
 
