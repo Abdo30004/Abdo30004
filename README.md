@@ -43,7 +43,7 @@ Additionally, I have a keen interest in bot development, particularly Discord bo
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=abdo30004&layout=donut&theme=ayu-mirage)
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=abdo30004&show_icons=true&theme=ayu-mirage)
 <p align="center">
-  <img src="https://gitfut.com/Abdo30004.png" alt="Abdo30004" width="450" height="500">
+  <img src="https://gitfut.com/Abdo30004.png" alt="Abdo30004" width="400" height="616">
 </p>
 
 
