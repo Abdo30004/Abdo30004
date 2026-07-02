@@ -42,7 +42,7 @@ Additionally, I have a keen interest in bot development, particularly Discord bo
 ## Github Stats
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=abdo30004&layout=donut&theme=ayu-mirage)
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=abdo30004&show_icons=true&theme=ayu-mirage)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdo30004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Gitfut](https://gitfut.com/Abdo30004.png)
 
 ## Discord Status
 ![Discord Status](https://lanyard.cnrad.dev/api/760952710383665192?animated=true&showDisplayName=true&hideTimestamp=true)
